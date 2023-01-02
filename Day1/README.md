@@ -1,4 +1,4 @@
-# Day1
+# Day1 - Introduction
 
 * Função `console.log()`
 
