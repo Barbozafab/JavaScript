@@ -5,4 +5,5 @@ Este projeto contém o código produzido ao longo do curso ["30 Days of JavaScri
 | Dia | Tema |
 | --- | ---- |
 | 01 | [Introdução](/Day01/) |
-| 02 | [Tipos de dados](/Day02/) |
+| 02 | [Tipos de Dados](/Day02/) |
+| 03 | [Booleanos, Operadores, Data](/Day03/) |
