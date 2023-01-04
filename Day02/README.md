@@ -13,7 +13,7 @@
     * `Arrays`
 
 * Numbers
-    * Math
+    * Objeto Math
 
 * Strings
     * Concatenação
