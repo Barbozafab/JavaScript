@@ -2,9 +2,14 @@
 
 * Booleanos
     * `"Verdadeiros"`
+        * `true`
     * `"Falsos"`
+        * `false`
 
 * Operadores
+   * `+`, `-`, `*`, `/`, `%`, `**`
+   * `!`, `&&`, `||`
+   * `=`, `==`, `===`, `!=`, `!==`, `<`, `<=`, `>`, `>=`
 
 * Métodos da janela (`window`)
     * `window.alert()`
