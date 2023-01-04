@@ -6,9 +6,9 @@
 
 * Operadores
 
-* Métodos da janela
+* Métodos da janela (`window`)
     * `window.alert()`
     * `window.prompt()`
     * `window.confirm()`
 
-* Objeto Date
+* Objeto `Date`
