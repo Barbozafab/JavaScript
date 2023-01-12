@@ -10,3 +10,4 @@ Este projeto contém o código produzido ao longo do curso ["30 Days of JavaScri
 | 04 | [Condicionais](/Day04/) |
 | 05 | [Listas](/Day05/) |
 | 06 | [Loops](/Day06/) |
+| 07 | [Funções](/Day07/) |
