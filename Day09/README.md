@@ -1,4 +1,4 @@
-# Day08 - Higher Order Functions
+# Day09 - Higher Order Functions
 
 * Callback
 
