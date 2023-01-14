@@ -14,3 +14,4 @@ Este projeto contém o código produzido ao longo do curso ["30 Days of JavaScri
 | 08 | [Objetos](/Day08/) |
 | 09 | [Funções de Ordem Superior](/Day09/) |
 | 10 | [Sets e Maps](/Day10/) |
+| 11 | [Desestruturação e Espalhamento](/Day11/) |
