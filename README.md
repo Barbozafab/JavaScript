@@ -17,3 +17,4 @@ Este projeto contém o código produzido ao longo do curso ["30 Days of JavaScri
 | 11 | [Desestruturação e Espalhamento](/Day11/) |
 | 12 | [Expressões Regulares](/Day12/) |
 | 13 | [Métodos do Objeto Console](/Day13/) |
+| 14 | [Tratamento de Exceção](/Day14/) |
