@@ -15,4 +15,5 @@ Este projeto contém o código produzido ao longo do curso ["30 Days of JavaScri
 | 09 | [Funções de Ordem Superior](/Day09/) |
 | 10 | [Sets e Maps](/Day10/) |
 | 11 | [Desestruturação e Espalhamento](/Day11/) |
-| 12 | [Expressões Regulares](/Day12/)
+| 12 | [Expressões Regulares](/Day12/) |
+| 13 | [Métodos do Objeto Console](/Day13/) |
