@@ -19,3 +19,4 @@ Este projeto contém o código produzido ao longo do curso ["30 Days of JavaScri
 | 13 | [Métodos do Objeto Console](/Day13/) |
 | 14 | [Tratamento de Exceção](/Day14/) |
 | 15 | [Classes](/Day15/) |
+| 16 | [JSON](/Day16/) |
